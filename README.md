@@ -13,7 +13,7 @@ Requirements and Installation:
 
 Training:
 
-$ CUDA_VISIBLE_DEVICES=0 python train.py GitHub.AdaMixup.AAAI.MNIST.Cifar.py
+$ CUDA_VISIBLE_DEVICES=0 python GitHub.AdaMixup.AAAI.MNIST.Cifar.py
 
 Acknowledgement:
 
